@@ -4,7 +4,7 @@
 
 ## 本業
 
-サウンドオンライブ株式会社( https://www.wantedly.com/companies/soundonlive )に所属し、自社サービスの開発やフロントエンドを中心とした受託開発をしています。
+サウンドオンライブ株式会社(https://www.wantedly.com/companies/soundonlive)に所属し、自社サービスの開発やフロントエンドを中心とした受託開発をしています。
 
 ## 音楽面の所属
 
@@ -17,7 +17,7 @@
 
 ## 個人の活動
 
-動画配信サービス initium ; auditorium ( https://www.initium-auditorium.com ) の開発・UI/UXデザイン・運営を担当する他、制作チーム musicolare ( https://musicolare.com ) として音楽家・音楽団体のWebサイトを制作しています。
+動画配信サービス initium ; auditorium (https://www.initium-auditorium.com) の開発・UI/UXデザイン・運営を担当する他、制作チーム musicolare (https://musicolare.com) として音楽家・音楽団体のWebサイトを制作しています。
 
 ## 経歴
 
@@ -38,7 +38,7 @@
 
 ## 技術スタック
 
-※ここ最近触れていないものは小文字とします。
+※ここ最近触れていないものは"Used to do"欄にまとめています。
 
 | 種別 | 内容 |
 | - | - |
