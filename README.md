@@ -4,7 +4,7 @@
 
 ## 本業
 
-サウンドオンライブ株式会社(https://www.wantedly.com/companies/soundonlive)に所属し、自社サービスの開発やフロントエンドを中心とした受託開発をしています。
+サウンドオンライブ株式会社(https://www.wantedly.com/companies/soundonlive) に所属し、自社サービスの開発やフロントエンドを中心とした受託開発をしています。
 
 ## 音楽面の所属
 
