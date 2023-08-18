@@ -42,16 +42,16 @@
 
 | 種別 | 内容 |
 | - | - |
-| Web Frontend | HTML / CSS / JavaScript / TypeScript / React.js / Next.js / Storybook / Tailwind CSS / Chakra UI |
-| Mobile Framework | React Native / Expo |
-| Backend | Express / Next-Connect |
-| Third-party Services / Libraries | Firebase / Mux Video / HLS / Stripe / SendGrid / Mailgun / MJML / Serverless Component |
+| Web Frontend | HTML / CSS / JavaScript / TypeScript / Svelte / React.js / Next.js / SvelteKit / Storybook / Tailwind CSS / Chakra UI / MUI / daisyUI |
+| Mobile Framework | React Native / Expo / SwiftUI / Apple HealthKit |
+| Backend | Express / Next.js / Redis / Nginx |
+| Third-party Services / Libraries | Cloudflare / Vultr / Auth0 / Firebase / Mux Video / HLS / Stripe / SendGrid / Mailgun / MJML / Serverless Component / Strapi / MicroCMS |
 | AWS | Cognito / CloudFront / S3 / Lambda / API Gateway / CloudWatch / CloudWatch Logs / DynamoDB / AppSync / SES |
 | Database | MongoDB / Firestore / DynamoDB |
 | Monitoring | Bugsnag |
 | Data Analysis | Google Analytics |
 | CI | CircleCI / Github Actions |
 | Designing | Figma / Adobe XD / Illustrator / Design System / Atomic Design |
-| Used to Do | C# / Java / Python / Ruby / Tensorflow / Node-RED / LINE Messaging API / MySQL / PostgreSQL / Apache / Nginx |
-| Environment | Git / Github / BitBucket / Vim |
+| Used to Do | C# / Java / Python / Ruby / PHP / Tensorflow / Node-RED / LINE Messaging API / Laravel / MySQL / PostgreSQL / Apache |
+| Environment | Git / Github / BitBucket / GitLab / Vim |
 | 資格 | 基本情報技術者 / 応用情報技術者 / JDLA Deep Learning for ENGINEER 2019 #2 |
